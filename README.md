@@ -58,6 +58,13 @@ npm install
 
 ```
 cp example.env .env
+
+```
+
+```
+sudo nano .env
+
+sudo chmod -R 777 Bybit-Lick-Hunter
 ```
 
 
