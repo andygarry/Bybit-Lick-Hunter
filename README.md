@@ -45,11 +45,11 @@ apt install gh
 ```
 
 ```
-git clone https://github.com/CryptoGnome/Bybit-Lick-Hunter-v4.git
+git clone https://github.com/andygarry/Bybit-Lick-Hunter.git
 ```
 
 ```
-cd Bybit-Lick-Hunter-v4
+cd Bybit-Lick-Hunter
 ```
 
 ```
